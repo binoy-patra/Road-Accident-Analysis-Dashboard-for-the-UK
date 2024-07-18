@@ -43,7 +43,7 @@ The cleaned and transformed data was then imported into Power BI to create a dyn
 
 ## Final Dashboard 
 
-[Dashboard](https://github.com/binoy-patra/Road-Accident-Analysis-Dashboard-for-the-UK/blob/main/Images/Final%20Dashboard%20Image.PNG)
+![Dashboard](https://github.com/binoy-patra/Road-Accident-Analysis-Dashboard-for-the-UK/blob/main/Images/Final%20Dashboard%20Image.PNG)
 
 ## Key Findings
 
