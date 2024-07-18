@@ -41,6 +41,10 @@ The cleaned and transformed data was then imported into Power BI to create a dyn
 - Implementing charts and graphs to display trends and patterns.
 - Ensuring the dashboard is user-friendly and provides actionable insights.
 
+## Final Dashboard 
+
+[Dashboard](https://github.com/binoy-patra/Road-Accident-Analysis-Dashboard-for-the-UK/blob/main/Images/Final%20Dashboard%20Image.PNG)
+
 ## Key Findings
 
 ### Total Casualties Analysis
